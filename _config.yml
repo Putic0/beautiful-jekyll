@@ -10,17 +10,17 @@
 ############################
 
 # Name of website
-title: My website
+title: Mi curriculum
 
 # Your name to show in the footer
-author: Some Person
+author: Albertito98
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "Sobre mi"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/media/image/2018/11/dragon-ball-super-broly-gogeta.jpg?tf=3840x"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
